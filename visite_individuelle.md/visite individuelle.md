@@ -64,7 +64,7 @@ Le fait que ce soit une visite autonome m'a vraiment plu. Pour une fois, on nous
 
 
 ## Aspect que vous ne souhaiteriez pas retenir
-La seuyle chose qui pourrait etre améliorer, c'est la grandeur de l'appartement. Je sais que le budget est limité et que il est possible que le monde volle des choses, cependant, je pense que un appartement plus grand avec plusieurs expositions de l'envergure des cuilleres serait encore plus incroyable. on voit et on admire les cuilleres une fois, et on a vus le meilleur. Meme si c'est tres intéressant, je pense que le fait d'en voir plusieurs dans ce context serait vraiment magique. Ce que je retiens, plutot de se que je ne retiens pas, c'est le fait d'essayer toujours de faire quelquechose dans sa version la plus "grandiose" quand on parle d'expositions. L'aspect "wow" est trs important et c'est cet aspect qui fait en sorte que les gens se rapellent du nom et de l'oeuvre.
+La seule chose qui pourrait etre améliorer, c'est la grandeur de l'appartement. Je sais que le budget est limité et que il est possible que le monde volle des choses, cependant, je pense que un appartement plus grand avec plusieurs expositions de l'envergure des cuilleres serait encore plus incroyable. on voit et on admire les cuilleres une fois, et on a vus le meilleur. Meme si c'est tres intéressant, je pense que le fait d'en voir plusieurs dans ce context serait vraiment magique. Ce que je retiens, plutot de se que je ne retiens pas, c'est le fait d'essayer toujours de faire quelquechose dans sa version la plus "grandiose" quand on parle d'expositions. L'aspect "wow" est trs important et c'est cet aspect qui fait en sorte que les gens se rapellent du nom et de l'oeuvre.
 
 
 
