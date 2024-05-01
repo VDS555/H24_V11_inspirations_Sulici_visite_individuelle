@@ -13,9 +13,11 @@ Enregistrements et texte : Jonathan Champagne
 
 Aide technique : Roxana Bouchard
 
-![media](media/oeuvre7.jpeg)
+![media](media/entree3.jpeg)
+![media](media/entree2.jpeg)
+![media](media/entree1.jpeg)
 ![media](media/oeuvre6.jpeg)
-![media](media/oeuvre5.jpeg)
+![media](media/oeuvre7.jpeg)
 
 
 Source : https://www.eisode.art/pointsdesuspension
