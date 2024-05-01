@@ -1,19 +1,36 @@
 # Visite individuelle
 
 ## Introduction et informations
+Le 4 mars 2024, je suis allé visiter la splendide exposition : Points de suspention
 
+Voici quelques crédits supplémentaires :
+
+
+Vidéo: John Blouin
+
+Ingénieur électrique : Loup Letac
+
+Enregistrements et texte : Jonathan Champagne
+
+Aide technique : Roxana Bouchard
 
 
 ![media](media/oeuvre7.jpeg)
+
+Sources : https://www.eisode.art/pointsdesuspension
 
 ##
 
 ##
 
 ## Description de l'oeuvre ou du dispositif
-Un appartement transforme en exposition. Dans la piece centrale, on a des cuilleres attachées au plafond. Ces cuillieres sont chargées electriquement par des cables et enssembles, elle forment un champ magnétique. ce champ magnétique fait en sorte que les cuilleres bougent et parfois, elloes s'entretouchent et s'attirent en raison du champ magnétique. Les autres salle sont remplies de fils, speakers et télés.
+Un appartement transforme en exposition. Dans la piece centrale, on a des cuilleres attachées au plafond. Ces cuillieres sont chargées electriquement par des cables et enssembles, elle forment un champ magnétique. ce champ magnétique fait en sorte que les cuilleres bougent et parfois, elloes s'entretouchent et s'attirent en raison du champ magnétique. Les autres salle sont remplies de fils, speakers et télés. 
 
+Voici une description supplementaire par rapport a l'oeuvre, tirée directement du site web :
 
+> «Points de suspension est une installation sonore et cinétique générative qui porte un regard sur les violences invisibles au sein des relations humaines. Des communautés d’objets en suspension sont animées par des principes d’attractions et de répulsions magnétiques et leurs interactions modifient des séquences sonores et vidéo. L’évolution des séquences transforme à son tour les paramètres de l’algorithme qui contrôle les événements électromagnétiques afin que l’œuvre se développe de manière autonome.»
+
+source : https://www.eisode.art/pointsdesuspension
 
 
 ## Type d'installation
