@@ -1,10 +1,9 @@
 # Visite individuelle
 
 ## Introduction et informations
-Le 4 mars 2024, je suis allé visiter la splendide exposition : Points de suspention
+Le 4 mars 2024, je suis allé visiter la splendide exposition : Points de suspention. C'est une collaboration de Avatar et EISODE, qui sont toutes les deux des firmes d'exposition.
 
 Voici quelques crédits supplémentaires :
-
 
 Vidéo: John Blouin
 
@@ -14,14 +13,13 @@ Enregistrements et texte : Jonathan Champagne
 
 Aide technique : Roxana Bouchard
 
-
 ![media](media/oeuvre7.jpeg)
+![media](media/oeuvre6.jpeg)
+![media](media/oeuvre5.jpeg)
 
-Sources : https://www.eisode.art/pointsdesuspension
 
-##
+Source : https://www.eisode.art/pointsdesuspension
 
-##
 
 ## Description de l'oeuvre ou du dispositif
 Un appartement transforme en exposition. Dans la piece centrale, on a des cuilleres attachées au plafond. Ces cuillieres sont chargées electriquement par des cables et enssembles, elle forment un champ magnétique. ce champ magnétique fait en sorte que les cuilleres bougent et parfois, elloes s'entretouchent et s'attirent en raison du champ magnétique. Les autres salle sont remplies de fils, speakers et télés. 
