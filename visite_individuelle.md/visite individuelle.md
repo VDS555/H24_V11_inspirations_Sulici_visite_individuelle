@@ -37,6 +37,10 @@ Voici une liste des composantes techniques :
 - un ordinateur
 - des télés
 
+![media](media/cablage1.jpeg)
+![media](media/cablage2.jpeg)
+![media](media/cablage3.jpeg)
+
 
 
 ## Éléments nécessaires à la mise en exposition
