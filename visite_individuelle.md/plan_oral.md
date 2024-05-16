@@ -3,7 +3,7 @@
 ## Introduction et informations
 Le 4 mars 2024, je suis allé visiter la splendide exposition : Points de suspention. C'est une collaboration de Avatar et EISODE, qui sont toutes les deux des firmes d'exposition.
 
-Voici quelques crédits supplémentaires :
+## Crédits
 
 Vidéo: John Blouin
 
@@ -32,9 +32,14 @@ Voici une description supplementaire par rapport a l'oeuvre, tirée directement 
 
 source : https://www.eisode.art/pointsdesuspension
 
+![media](media/entree3.jpeg)
+![media](media/entree2.jpeg)
+![media](media/entree1.jpeg)
+![media](media/oeuvre6.jpeg)
+![media](media/oeuvre7.jpeg)
 
 ## Type d'installation
-Contemplative, en raison de la nature explicite d'exposition de l'oeuvre. Cependant, il y a un aspect interactif au tout début, ou il faut aller chercher un code dans nos e-mails pour pouvoir rentrer dans l'appartement.
+Contemplative.
 
 
 
